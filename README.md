@@ -1,0 +1,3 @@
+# Algorithmically Generating Fonts From Scratch
+
+To install the resulting font, open the `fontbuilds` directory and download the contained `Qurwenyanfont-Regular.otf` file. Once it's done downloading, open it and you should have the option to install the font on your system. To try it out, search for font settings in your start menu and once this opens in the Settings app, search for the Qurwenyan font and click on it to preview it.
